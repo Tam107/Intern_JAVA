@@ -1,0 +1,1 @@
+Hello, Alice! Your balance is 100 USD.

@@ -7,7 +7,7 @@ public class Ex9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
-        String[] words = input.split("\\s");
+        String[] words = input.split("\\s+");
         System.out.println("The input has "+ words.length + " word");
 
     }
